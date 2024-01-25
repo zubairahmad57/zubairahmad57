@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 
 [![leetcode](
-https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) (      https://leetcode.com/zubairahmad5736/ )
+https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](      https://leetcode.com/zubairahmad5736/ )
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]( https://x.com/Zubairxhandle?t=OQQ8Na8s6jXLpvsglMU2aQ&s=08  )
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]( https://www.instagram.com/therealzubairahmad_?igsh=ZDJocmZ2MnpsMWwy   ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](   https://www.linkedin.com/in/zubair-ahmad-92b869227   ) 
 
