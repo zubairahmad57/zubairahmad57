@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 **I’m currently working on:**  <br> developing projects .<br><br>👁️ **I’m looking to collaborate on:**  <br>Front-end projects<br><br>🌱 **I’m currently learning:**  <br>Data Structure & Algorithm And front-end development.<br><br>💬 **Ask me about:**  <br>JavaScript, CSS, HTML, Java,C/C++,MySQL, general software development questions.
-⚡ Fun fact: coding is fun 😉
+<br>⚡ **Fun fact**: coding is fun 😉 
 ## 🌐 Socials:
 
 [![leetcode](
